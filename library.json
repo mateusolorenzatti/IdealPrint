@@ -1,0 +1,11 @@
+{
+    "name": "IdealPrint",
+    "keywords": "LCD, I2C, NodeMCU",
+    "description": "A library for an easy interaction of I2C with NodeMCU.",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/mateusolorenzatti/IdealPrint"
+    },
+    "frameworks": "arduino"
+  }
